@@ -6,4 +6,9 @@ A simple script to run while you play Slippi.
 - npm/pnpm/yarn etc.
 
 ## Running
+
+### Install Dependencies
+`$ pnpm install`
+
+### Start the script
 `$ node script.js path/to/your/slippi/replays`
