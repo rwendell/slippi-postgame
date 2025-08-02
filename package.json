@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"@slippi/slippi-js": "^7.1.0",
+		"chokidar": "^4.0.3",
+		"lodash": "^4.17.21"
+	}
+}
